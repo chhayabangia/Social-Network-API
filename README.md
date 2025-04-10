@@ -1,2 +1,6 @@
-# Social-Network-API
-To build an API from scratch for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. 
+# Social Network API
+
+API for a social network app using MongoDB, Express.js, and Mongoose.
+
+
+Includes full working models, controllers, routes, and example usage in Insomnia.
