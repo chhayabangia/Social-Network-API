@@ -20,7 +20,7 @@ Following will be required in this project:
 
 ## Usage
 - Using npm run start
-- 
+  
 ## Credits
 - Utilized Xpert Learning Assistant to resolve functionality issues
 - Attended Tutor session to troubleshoot errors
