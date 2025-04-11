@@ -32,4 +32,4 @@ This project is licensed under MIT.
 
 
 ## Github Repository
-https://github.com/chhayabangia/Candidate_Search.git
+https://github.com/chhayabangia/Social-Network-API.git
