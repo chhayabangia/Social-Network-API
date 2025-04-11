@@ -33,4 +33,3 @@ This project is licensed under MIT.
 
 ## Github Repository
 https://github.com/chhayabangia/Candidate_Search.git
-![image](https://github.com/user-attachments/assets/c0ef000d-5fcb-4acd-8224-a688a2aab0ed)
