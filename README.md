@@ -29,7 +29,7 @@ Following will be required in this project:
 This project is licensed under MIT.
 
 ## Video
-
+Video has been attached as a file to module assigment.
 
 ## Github Repository
 https://github.com/chhayabangia/Social-Network-API.git
